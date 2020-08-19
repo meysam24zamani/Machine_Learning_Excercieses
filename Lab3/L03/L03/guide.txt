@@ -1,0 +1,5 @@
+Dear all,
+
+During the previous lab, some of you had trouble in getting the "right" results for the exercise. 
+That depended on your chosen implementation, of course. I am offering one such solution for your consideration. 
+I got rid of the package {PolynomF} and changed to {polynom}.

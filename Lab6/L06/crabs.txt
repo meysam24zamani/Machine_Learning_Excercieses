@@ -1,0 +1,12 @@
+Campbell studied rock crabs of the genus leptograpsus in 1974. One
+species, L. variegatus, had been split into two new species,
+previously grouped by colour, orange and blue. Preserved specimens
+lose their colour, so it was hoped that morphological differences
+would enable museum material to be classified.
+
+Data are available on 50 specimens of each sex of each species,
+collected on sight at Fremantle, Western Australia. Each specimen has
+measurements on: I the width of the frontal lobe FL , I the rear width
+RW , I the length along the carapace midline CL , I the maximum width
+CW of the carapace, and I the body depth BD in mm, in addition to
+colour (species) and sex.
